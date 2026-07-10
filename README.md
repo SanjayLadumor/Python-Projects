@@ -117,7 +117,7 @@ A student record management application with permanent data storage using JSON.
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Python-Projects.git
+git clone https://github.com/SanjayLadumor/Python-Projects.git
 ```
 
 Go to the desired project folder:
