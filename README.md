@@ -1,86 +1,160 @@
 # 🐍 Python Projects
 
-Welcome to my **Python Projects** repository!
+A collection of beginner-friendly Python projects created while learning Python programming. This repository documents my journey from basic programming concepts to building practical applications using procedural programming.
 
-This repository contains the Python projects I build while learning programming and improving my problem-solving skills. Each project focuses on applying Python concepts to practical, real-world scenarios using clean and modular code.
+## 📚 Projects Included
 
-## 📌 Objectives
+### 🏦 Bank Management System
 
-- Practice core Python programming concepts
-- Build real-world console applications
-- Improve logical thinking and problem-solving
-- Learn how to organize larger Python programs
-- Track my programming journey through hands-on projects
+A command-line application to simulate basic banking operations.
+
+**Features**
+- Create Account
+- Deposit Money
+- Withdraw Money
+- Check Balance
+- Delete Account
+
+**Concepts Used**
+- Functions
+- Lists
+- Dictionaries
+- Loops
+- Conditional Statements
 
 ---
 
-## 📂 Projects
+### 🥤 Vending Machine
 
-### ☕ Coffee Vending Machine
+A vending machine simulator that allows users to purchase drinks and manages available resources.
 
-A console-based coffee vending machine that simulates ordering coffee and managing inventory.
+**Features**
+- Display Menu
+- Buy Drinks
+- Resource Management
+- Payment Handling
+- Change Calculation
 
-**Features:**
-- Display coffee menu
-- Place coffee orders
-- Check ingredient availability
-- Process payments and return change
-- Update inventory after successful orders
-- View ingredient report
-- Track total sales and orders
+**Concepts Used**
+- Dictionaries
+- Functions
+- Loops
+- Conditions
 
-**Concepts Used:**
+---
+
+### 📚 Library Management System
+
+A command-line application to manage books in a library.
+
+**Features**
+- Add Book
+- View Books
+- Search Book
+- Issue Book
+- Return Book
+- Delete Book
+
+**Concepts Used**
+- CRUD Operations
+- Lists
+- Dictionaries
+- Functions
+- Menu-Driven Programming
+
+---
+
+### 🎓 Student Management System
+
+A student record management application with permanent data storage using JSON.
+
+**Features**
+- Add Student
+- View Students
+- Search Student
+- Update Student
+- Delete Student
+- Show Topper
+- Calculate Average Marks
+
+**Concepts Used**
+- CRUD Operations
+- JSON
+- File Handling
+- Data Persistence
 - Functions
 - Dictionaries
-- Nested Dictionaries
+
+---
+
+## 🛠️ Technologies Used
+
+- Python 3
+- JSON
+- VS Code
+- Git
+- GitHub
+
+---
+
+## 📈 Skills Practiced
+
+- Procedural Programming
+- Problem Solving
+- Functions
 - Loops
-- Conditional Statements
-- User Input Validation
+- Lists
+- Dictionaries
+- File Handling
+- JSON
+- CRUD Operations
 - Modular Programming
 
 ---
 
-### 🏦 Bank Management System
+## 🚀 How to Run Any Project
 
-A console-based banking application that manages customer accounts and basic banking operations.
+Clone the repository:
 
-**Features:**
-- Create new accounts
-- Deposit money
-- Withdraw money
-- Transfer funds between accounts
-- Check account balance
-- View transaction history
-- Delete accounts
+```bash
+git clone https://github.com/YOUR_USERNAME/Python-Projects.git
+```
 
-**Concepts Used:**
-- Functions
-- Lists
-- Dictionaries
-- Nested Data Structures
-- Loops
-- Conditional Statements
-- Data Management
+Go to the desired project folder:
+
+```bash
+cd "Project Name"
+```
+
+Run the Python file:
+
+```bash
+python main.py
+```
 
 ---
 
-## 🛠 Technologies Used
+## 🎯 Learning Journey
 
-- Python 3
+These projects were built while learning Python fundamentals. Each project introduces new concepts and gradually increases in complexity.
 
----
+Current progression:
 
+- ✅ Bank Management System
+- ✅ Vending Machine
+- ✅ Library Management System
+- ✅ Student Management System
 
-## 📈 Learning Journey
-
-This repository documents my progression from Python fundamentals to building complete applications. As I continue learning, I will add more projects with improved code quality, new features, and better software design.
-
----
-
-## 🤝 Contributions
-
-This repository is a personal learning portfolio. Suggestions and feedback are always welcome!
+More Python projects will be added as I continue learning.
 
 ---
 
-⭐ **If you found these projects interesting, consider giving this repository a star!**
+## 👨‍💻 Author
+
+**Sanjay Ladumor**
+
+B.E. Computer Science & Engineering (Data Science)
+
+Vishwakarma Government Engineering College (VGEC), Ahmedabad
+
+GitHub: https://github.com/SanjayLadumor
