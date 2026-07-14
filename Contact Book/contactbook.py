@@ -120,7 +120,7 @@ class ContactBook:
             print("""Select To Update: 
 1. Phone
 2. Email
-3. Adress""")
+3. Address""")
             try:
                 b = int(input("Enter Your Choice: "))
                 if b==1:

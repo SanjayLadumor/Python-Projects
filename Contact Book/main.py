@@ -2,8 +2,9 @@ from contactbook import ContactBook
 
 def main():
     running = True
+    con = ContactBook()
+    con.load_contacts()
     while running:
-        con = ContactBook()
         print("""===== CONTACT BOOK =====
 
 1. Add Contact
