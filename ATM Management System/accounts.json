@@ -1,0 +1,12 @@
+[
+   {
+      "account_number": 11,
+      "name": "Matt Murdock",
+      "pin": 12345,
+      "balance": 73000.0,
+      "transactions": [
+         "Rs.123000.0 Deposited",
+         "Rs.50000.0 Withdrawned"
+      ]
+   }
+]
