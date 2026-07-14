@@ -1,0 +1,11 @@
+[
+    {
+        "employee_id": 11,
+        "name": "Matt Murdock",
+        "department": "Lawyer",
+        "type": "Part Time",
+        "hour_rate": 120,
+        "hours_worked": 6,
+        "salary": 720
+    }
+]
